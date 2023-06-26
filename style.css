@@ -1,0 +1,97 @@
+
+#titulosup{
+    padding-left: 220px;
+    padding-bottom: 150px;
+    font-family:inter;
+    color: aliceblue;
+    font-size: 40px;
+    font-weight: 50;
+}
+#menusup{
+    background: rgba(48, 48, 48, 1);
+    background-image: url(imagens/sup.svg;);
+    margin-bottom: 150px;
+}
+#menuinf {
+    background:rgb(249, 249, 230,);
+    text-align: center;
+    margin-left: 100px;
+}
+#inf{
+    grid-auto-flow: column;
+    text-align: center;
+    margin-left: 150px;
+    padding-bottom: 50px;
+    
+}
+#menutxt{
+    padding-top: 50px;
+    font-size: 18px; 
+    background-color:rgba(255, 255, 255, 1);
+    padding-left: 100px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-left: 100px;
+    align-items: left;
+    
+}
+#escada{
+    margin-left: 30px;
+}       
+#txt{
+   font-family: ralew;
+   margin-left: 100px;
+   text-align: left;
+   text-align: center;
+   padding-top: 100px;
+}
+#menuform{
+    background-color: #303030;
+}
+#title{
+    text-align: center;
+    color:white;
+    font-family: inter;
+    
+}
+#input-top{
+    width: 400px;
+    height: 30px;
+    top: 1201px;
+    left: 366px;
+    border: 10px ;
+    border-radius: 8px;  
+    font-weight: bolder;
+    align-items: center;
+    padding :10px;
+    margin-left: 1000px;
+    margin-bottom: 40px;
+    
+}
+#input-bot{
+    width: 400px;
+    height: 30px;
+    top: 1201px;
+    left: 366px;
+    border: 10px ;
+    border-radius: 8px;  
+    font-weight: bolder;
+    align-items: center;
+    padding :10px;
+    margin-left: 1000px;
+}
+#button{
+    background: rgba(192, 114, 18, 1);
+    font-family: ralew;
+    color: aliceblue;
+    font-size: larger;
+    margin-top: 30px;
+    margin-left: 1090px;
+    width: 256px;
+    height: 70px;
+    top: 1915px;
+    left: 537px;
+    border-radius: 10px;
+    cursor:pointer;
+}
